@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Rasmina A 👋
 
-<!--
-**RasminaA/RasminaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student at Government Engineering College Idukki
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, Artificial Intelligence, and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🌱 Currently learning Java, Python, Data Structures & Algorithms
+- 💡 Interested in Software Development, AI, and Machine Learning
+- 🚀 Building projects to improve my programming skills
+- 📍 Kerala, India
+
+## 🛠️ Technical Skills
+
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- React (Basics)
+- Firebase
+- Git & GitHub
+
+## 📂 Featured Projects
+
+- 📌 KTU Activity Point Management System
+- 📌 NoteItUp – Notes Management Website
+- 📌 Student Grade Application (Python)
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/rasmina-a-733645326
+- Email: rasminaareekodan@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile! I'm always learning and building new projects.
