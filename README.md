@@ -1,17 +1,17 @@
-# Hi, I'm Rasmina A 👋
+# Hi there 👋 I'm Rasmina A
 
 🎓 B.Tech Information Technology Student at Government Engineering College Idukki
 
 💻 Passionate about Software Development, Artificial Intelligence, and Web Development.
 
-## 👩‍💻 About Me
+## 🚀 Currently Learning
 
-- 🌱 Currently learning Java, Python, Data Structures & Algorithms
-- 💡 Interested in Software Development, AI, and Machine Learning
-- 🚀 Building projects to improve my programming skills
-- 📍 Kerala, India
+- Java
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
 - Java
 - Python
@@ -20,19 +20,21 @@
 - JavaScript
 - React (Basics)
 - Firebase
-- Git & GitHub
+- Git
+- GitHub
 
-## 📂 Featured Projects
+## 📂 Projects
 
-- 📌 KTU Activity Point Management System
-- 📌 NoteItUp – Notes Management Website
-- 📌 Student Grade Application (Python)
+- 🌐 Portfolio Website
+- 📝 NoteHub
+- 🎯 Activity Point Management System
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/rasmina-a-733645326
-- Email: rasminaareekodan@gmail.com
+- 🌐 Portfolio: https://rasminaa.github.io/Portfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/rasmina-a-733645326
+- 📧 Email: rasminaareekodan@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile! I'm always learning and building new projects.
+⭐ Thanks for visiting my GitHub profile!
